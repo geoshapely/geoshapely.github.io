@@ -1,0 +1,5 @@
+{
+  "name": "Shapely - Daily Geography Guess",
+  "description": "A daily puzzle game where players guess a country based on its evolving outline. Sleek dark mode UI with progressive reveals and daily persistence.",
+  "requestFramePermissions": []
+}
